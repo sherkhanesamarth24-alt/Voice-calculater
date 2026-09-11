@@ -1,0 +1,6 @@
+{
+  "name": "VocaCalc",
+  "description": "A modern mobile-first voice calculator supporting natural speech in English, Marathi, Hindi, and Hinglish with smart financial and math calculation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
